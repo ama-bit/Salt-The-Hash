@@ -1,18 +1,23 @@
-## Salt-The-Hash
+## Salt The Hash
 
-### My personal repository.
+This is my personal repository.
 
-## About me
+## About Me
 
-### I am interested in consistenly learning and practicing the fundamentals of;
+I am passionate about learning and practicing the fundamentals of:
+
 - Network security
 - Incident response
 - Digital forensics
 - Static malware analysis
 - System hardening
 
-### *My goal in creating this account is to learn from the GitHub community and provide valuable contributions along the way.*
+*My goal in creating this account is to learn from the GitHub community and make meaningful contributions along the way.*
 
-<!-- Keeps lines hidden.
+## PS
+
+Always salt your hashes! :lock:
+
+<!-- Keeps lines hidden. -->
 
 
