@@ -1,4 +1,4 @@
-## Salt The Hash
+## Salty Hash
 
 This is my personal repository.
 
@@ -14,9 +14,9 @@ I am passionate about learning and practicing the fundamentals of:
 
 *My goal in creating this account is to learn from the GitHub community and make meaningful contributions along the way.*
 
-## PS
+## P.S.
 
-Always salt your hashes! :lock:
+Salt it first, hash it last! :lock:
 
 <!-- Keeps lines hidden. -->
 
