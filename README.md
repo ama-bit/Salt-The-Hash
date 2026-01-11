@@ -1,4 +1,4 @@
-## Salty Hash
+# Salty Hash
 
 This is my personal repository.
 
