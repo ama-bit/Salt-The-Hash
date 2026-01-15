@@ -1,8 +1,10 @@
-# SaltedBytes
+# Salted Bytes 🧂
 
 This is my personal repository.
 
-## About Me
+---
+
+## About Me 🔏
 
 I am passionate about learning and practicing the fundamentals of:
 
@@ -14,9 +16,13 @@ I am passionate about learning and practicing the fundamentals of:
 
 *My goal in creating this account is to learn from the GitHub community and make meaningful contributions along the way.*
 
-## P.S.
+---
 
-Salt it first, hash it last! :lock:
+>P.S.
+> Salt it first, hash it last! 🔍
+>
+
+---
 
 <!-- Keeps lines hidden. -->
 
